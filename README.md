@@ -67,6 +67,8 @@ Right now, I’m focused on improving my skills in data analysis, backend system
   
 </div>
 
+------------------------------------------------------
+
 ###
 
 <h3 align="left">💻 Operating Systems:</h3>
@@ -80,6 +82,7 @@ Right now, I’m focused on improving my skills in data analysis, backend system
   <img width="12" />
 
 ###
+-------------------------------------------------------------------
 
 <h3 align="left">🔥 My Stats:</h3>
 
