@@ -29,7 +29,7 @@ Right now, I’m focused on improving my skills in data analysis, backend system
 
 \- ⚡ Focused on building strong analytical and system-thinking skill
 
-\- :mailbox: For contact and collaboration:  [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&1ogo=Telegram&logoColor=white)](https://t.me/xjahangir) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:muradovjahangir@gmail.com)
+\- :mailbox: For contact and collaboration:  [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/xjahangir) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:muradovjahangir@gmail.com)
 
 ###
 
