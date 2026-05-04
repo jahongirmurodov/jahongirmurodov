@@ -21,6 +21,8 @@ I completed Data Science courses at Proweb, where I gained hands-on experience i
 
 Right now, I’m focused on improving my skills in data analysis, backend systems, and developing solutions that have real value.
 
+\- 🎓 INHA University graduate in Computer Science and Engineering
+
 \- 🔭 Explored multiple areas in IT, including C, Python, and Data Science
 
 \- 📚 Completed Data Science courses at Proweb
